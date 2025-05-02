@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ssb77-living.github.io/ssb-executive-living/sitemap.xml
